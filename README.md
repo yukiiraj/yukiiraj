@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Yukteswaran Raj 👋
 
-<!--
-**yukiiraj/yukiiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Artificial Intelligence student at Multimedia University (MMU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Aspiring AI Engineer focused on building practical AI applications.
+
+Currently learning and building projects involving:
+
+- Python
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Automation
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+- Python
+- C++
+- JavaScript
+- PHP
+- HTML/CSS
+
+### Tools
+
+- VS Code
+- Git & GitHub
+- Ubuntu
+- n8n
+
+---
+
+## AI Engineering Roadmap
+
+Currently building my AI Engineering portfolio:
+
+✅ Python Development  
+✅ Git & GitHub Workflow  
+⬜ Machine Learning Projects  
+⬜ RAG Applications  
+⬜ FastAPI APIs  
+⬜ AI Agents  
+⬜ AI Deployment
+
+---
+
+## Current Projects
+
+Coming soon:
+
+🚀 AI Study Assistant  
+🚀 AI Resume Analyzer  
+🚀 AI Interview Preparation Platform  
+🚀 AI Multi-Agent Research Assistant
+
+---
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/yukteswaran-raj-4a1253422
+
+GitHub:
+https://github.com/yukiiraj
+
+---
+
+⭐ Always learning. Always building.
