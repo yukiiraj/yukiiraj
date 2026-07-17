@@ -52,7 +52,8 @@ Currently building my AI Engineering portfolio:
 ## Certifications
 
 - ✅ Kaggle Python
---
+
+---
 ## Current Projects
 
 Coming soon:
