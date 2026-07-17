@@ -49,7 +49,10 @@ Currently building my AI Engineering portfolio:
 ⬜ AI Deployment
 
 ---
+## Certifications
 
+- ✅ Kaggle Python
+--
 ## Current Projects
 
 Coming soon:
