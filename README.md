@@ -68,7 +68,7 @@ Coming soon:
 ## Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/yukteswaran-raj-4a1253422
+https://www.linkedin.com/in/yukteswaran-raj
 
 GitHub:
 https://github.com/yukiiraj
