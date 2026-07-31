@@ -53,6 +53,7 @@ Currently building my AI Engineering portfolio:
 
 - ✅ Kaggle Python
 - ✅ Kaggle Pandas
+- ✅ Kaggle Intro to Machine Learning
 ---
 ## Current Projects
 
